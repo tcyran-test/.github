@@ -1,0 +1,5 @@
+mode:
+  selective: true
+  selective-repo-list:
+    - tcyran-test-10
+  dry-run: true
